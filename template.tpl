@@ -13,7 +13,7 @@ ___INFO___
   "type": "TAG",
   "categories": ["AFFILIATE_MARKETING", "ADVERTISING","SOCIAL"],
   "id": "cvt_temp_public_id",
-  "version": 2,
+  "version": 1,
   "securityGroups": [],
   "brand": {
     "id": "brand_dummy",
