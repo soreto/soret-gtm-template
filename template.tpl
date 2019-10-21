@@ -5,13 +5,18 @@ Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
+
 ___INFO___
 
 {
   "displayName": "Soreto",
   "description": "Soreto GTM Template to faciliate the implementation of Soreto JavaScript tag.",
   "type": "TAG",
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING","SOCIAL"],
+  "categories": [
+    "AFFILIATE_MARKETING",
+    "ADVERTISING",
+    "SOCIAL"
+  ],
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],

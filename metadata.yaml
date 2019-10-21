@@ -1,7 +1,7 @@
 homepage: "https://www.soreto.com",
 documentation: "https://github.com/soreto/soreto-gtm-template",
 versions:
-  - sha: 1f9a94b44d1ee134f8371045e2e75e2b40d4d762
+  - sha: 089c2aa963d910a8f7de54ea8a1e9d9386736c00
     changeNotes: Updated terms
   - sha: 80b5bacd9d29da7a672a7ad33225cb578fd6bf2d
     changeNotes: First Version
