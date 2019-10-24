@@ -1,5 +1,7 @@
 homepage: "https://www.soreto.com",
 documentation: "https://github.com/soreto/soreto-gtm-template",
 versions:
+  - sha: c38bfd889bed1841b1d142b188fcd13fd025b3c9
+    changeNotes: Improved logo image and description
   - sha: afdc9a81482d6d2813c8177060f70abd308f8b66
     changeNotes: First Version
