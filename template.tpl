@@ -65,6 +65,13 @@ ___TEMPLATE_PARAMETERS___
     "name": "orderTotal",
     "displayName": "Order Total",
     "simpleValueType": true
+  },
+  {
+    "type": "TEXT",
+    "name": "country",
+    "displayName": "Country",
+    "simpleValueType": true,
+    "canBeEmptyString": true
   }
 ]
 
@@ -200,6 +207,8 @@ SORETO.User.firstName = data.firstName;
 SORETO.User.email = data.email;
 SORETO.Order.id = data.orderId;
 SORETO.Order.total = data.orderTotal;
+if(data.country)
+  SORETO.Order.country = data.country;
 
 log(SORETO);
 
