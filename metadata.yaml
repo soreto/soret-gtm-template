@@ -1,6 +1,8 @@
 homepage: "https://www.soreto.com",
 documentation: "https://github.com/soreto/soreto-gtm-template",
 versions:
+  - sha: d4aa68afc49f07d7a8162071541f45a659437382
+    changeNotes: Added Voucher Code and Customer Status variables
   - sha: 74ccae935fef6030aa46f521708aa609bd5b99c2
     changeNotes: Add country support
   - sha: c38bfd889bed1841b1d142b188fcd13fd025b3c9
