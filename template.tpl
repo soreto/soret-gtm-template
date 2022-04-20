@@ -83,7 +83,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "customerStatus",
-    "displayName": "Customer Status ('NEW' or 'EXISTENT')",
+    "displayName": "Customer Status (\u0027NEW\u0027 or \u0027EXISTENT\u0027)",
     "simpleValueType": true,
     "canBeEmptyString": true
   }
